@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social" /></a>
-  <a href="#"><img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO" /></a>
-  <a href="#"><img src="https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/Praneetbrar/startup-launch-platforms/stargazers">
+    <img src="https://img.shields.io/github/stars/Praneetbrar/startup-launch-platforms?style=social" />
+  </a>
+  <a href="https://github.com/Praneetbrar/startup-launch-platforms/network/members">
+    <img src="https://img.shields.io/github/forks/Praneetbrar/startup-launch-platforms" />
+  </a>
+  <a href="https://github.com/Praneetbrar/startup-launch-platforms/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Praneetbrar/startup-launch-platforms" />
+  </a>
+  <a href="https://github.com/Praneetbrar/startup-launch-platforms/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Praneetbrar/startup-launch-platforms" />
+  </a>
 </p>
 
 ---
