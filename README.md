@@ -155,7 +155,7 @@ Launching on just one platform limits your growth.
 | Firsto | https://firsto.co | Indie product launch platform |
 | Top10 | https://top10.tools | Ranked tool discovery site |
 | SoloPush | https://solopush.com | Built for solo founders |
-| TinyLaunch | https://tinylaunch.io | Micro startup launch platform |
+| TinyLaunch | https://tinylaunch.com | Micro startup launch platform |
 | ScoutForge | https://scoutforge.net | Developer tool discovery |
 | Uneed Weekly | https://uneed.best | Weekly startup newsletter |
 | LaunchLlama | https://launchllama.co | Launch campaign tracking |
