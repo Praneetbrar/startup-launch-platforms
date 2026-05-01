@@ -21,9 +21,9 @@
 
 ---
 
-# 🌟 Featured Launch Platforms
+# 🌟 Rising Launch Platforms
 
-> 🔥 Handpicked high-potential platforms for maximum early traction
+> 🔥 Handpicked high-potential platforms for maximum early traction and maximum distribution of your project
 
 | Platform | Description |
 |----------|------------|
