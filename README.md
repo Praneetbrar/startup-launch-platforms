@@ -86,12 +86,9 @@ Launching on just one platform limits your growth.
 | Microlaunch | https://microlaunch.net | Simple platform for quick product launches |
 | Fazier | https://fazier.com | Clean product discovery experience |
 | OpenHunts | https://openhunts.com | Open alternative to Product Hunt |
-| Launch List | https://launchlist.co | Early-stage product exposure platform |
 | Smol Launch | https://smollaunch.com | Weekly curated startup launches |
 | NextGen Tools | https://nxgntools.com | SEO-focused tool discovery platform |
 | WhatLaunched.Today | https://www.whatlaunched.today | Daily product launch tracking |
-| Noizz | https://noizz.io | Product discovery with analytics |
-| Orynth | https://orynth.com | Growing ecosystem for AI tools |
 
 ---
 
@@ -118,15 +115,10 @@ Launching on just one platform limits your growth.
 | Platform | Link | Description |
 |----------|------|------------|
 | Indie Hackers | https://www.indiehackers.com | Community of startup founders |
-| Makerlog | https://makerlog.com | Daily progress tracking for makers |
 | WIP | https://wip.co | Build-in-public community |
-| Buildspace | https://buildspace.so | Community for builders and creators |
 | Starter Story | https://starterstory.com | Case studies of successful startups |
 | Dev.to | https://dev.to | Developer blogging platform |
 | Hashnode | https://hashnode.com | Dev blogging with custom domains |
-| CodeNewbie | https://www.codenewbie.org | Beginner-friendly dev community |
-| Daily.dev | https://daily.dev | Developer news and content hub |
-
 ---
 
 ## 📣 Tier 5: Startup Directories
@@ -134,9 +126,7 @@ Launching on just one platform limits your growth.
 | Platform | Link | Description |
 |----------|------|------------|
 | StartupBase | https://startupbase.io | Startup listing and discovery platform |
-| Startup Fame | https://startupfame.com | Directory for new startups |
-| Crunchbase | https://www.crunchbase.com | Industry-leading startup database |
-| AngelList | https://angel.co | Startup jobs and investor network |
+| Startup Fame | https://startupfa.me | Directory for new startups |
 | PitchWall | https://pitchwall.co | Startup showcase platform |
 | CtrlAltCC | https://ctrlalt.cc | Curated startup directory |
 | Twelve Tools | https://twelve.tools | Collection of useful web tools |
@@ -152,14 +142,12 @@ Launching on just one platform limits your growth.
 |----------|------|------------|
 | PeerPush | https://peerpush.net | Platform for early user traction |
 | ProductBurst | https://productburst.com | Quick exposure for new tools |
-| LaunchUrApp | https://launchurapp.com | Fast product listing service |
 | Firsto | https://firsto.co | Indie product launch platform |
 | Top10 | https://top10.tools | Ranked tool discovery site |
 | SoloPush | https://solopush.com | Built for solo founders |
 | TinyLaunch | https://tinylaunch.com | Micro startup launch platform |
 | ScoutForge | https://scoutforge.net | Developer tool discovery |
-| Uneed Weekly | https://uneed.best | Weekly startup newsletter |
-| LaunchLlama | https://launchllama.co | Launch campaign tracking |
+| LaunchLlama | https://tools.launchllama.co | Launch campaign tracking |
 
 ---
 
