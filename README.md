@@ -32,7 +32,8 @@
 | [Indiehunt](https://indiehunt.io) | Community-driven indie product discovery |
 | [Makerhunt](https://makerhunt.io) | Launch and showcase maker projects |
 | [Sidehunt](https://sidehunt.io) | Platform for sharing and exploring side projects |
-| [Nick Launches](https://nicklaunches.com/) | Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink. |
+| [Product Watch](https://productwatch.io/) | Your Daily Feed of New Tech Products & Startups|
+| [Nick Launches](https://nicklaunches.com/) | Launch platform for builders, AI startups, and SaaS founders. |
 
 ---
 
