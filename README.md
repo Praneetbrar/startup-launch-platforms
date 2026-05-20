@@ -33,6 +33,7 @@
 | [Makerhunt](https://makerhunt.io) | Launch and showcase maker projects |
 | [Sidehunt](https://sidehunt.io) | Platform for sharing and exploring side projects |
 | [Product Watch](https://productwatch.io/) | Your Daily Feed of New Tech Products & Startups|
+| [Nick Launches](https://nicklaunches.com/) | Launch platform for builders, AI startups, and SaaS founders. |
 
 ---
 
@@ -68,6 +69,7 @@ Launching on just one platform limits your growth.
 |----------|------|------------|
 | Product Hunt | https://www.producthunt.com | Largest global platform for product launches |
 | BetaList | https://betalist.com | Ideal for pre-launch startups and waitlists |
+| Aura++ | https://auraplusplus.com | AI-first launch platform for modern builders |
 | Hacker News | https://news.ycombinator.com | Highly engaged developer community |
 | Reddit | https://www.reddit.com | Massive audience with viral potential |
 | AppSumo | https://appsumo.com | Marketplace focused on SaaS deals |
@@ -86,6 +88,8 @@ Launching on just one platform limits your growth.
 | Uneed | https://uneed.best | Curated directory for new tech products |
 | Microlaunch | https://microlaunch.net | Simple platform for quick product launches |
 | Fazier | https://fazier.com | Clean product discovery experience |
+| Earlyhunt | https://earlyhunt.com | Discover and launch early-stage startups |
+| Indiehunt | https://indiehunt.io | Community-driven indie product discovery |
 | OpenHunts | https://openhunts.com | Open alternative to Product Hunt |
 | Smol Launch | https://smollaunch.com | Weekly curated startup launches |
 | NextGen Tools | https://nxgntools.com | SEO-focused tool discovery platform |
@@ -133,6 +137,8 @@ Launching on just one platform limits your growth.
 | Twelve Tools | https://twelve.tools | Collection of useful web tools |
 | Tiny Startups | https://tinystartups.com | Indie startup directory |
 | Open Launch | https://openlaunch.io | Discover new products and tools |
+| Makerhunt | https://makerhunt.io | Launch and showcase maker projects |
+| Sidehunt | https://sidehunt.io | Platform for sharing and exploring side projects |
 | LaunchIgniter | https://launchigniter.com | Platform for startup exposure |
 
 ---
