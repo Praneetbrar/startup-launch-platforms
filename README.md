@@ -106,6 +106,7 @@ Launching on just one platform limits your growth.
 | TopAI.tools | https://topai.tools | SEO-focused AI tools directory |
 | AIStage | https://aistage.net | AI product listing platform |
 | Dang.ai | https://dang.ai | A directory focusing on AI products and startups |
+| JustLaunched | https://justlaunched.fyi | Directory to submit and discover newly launched SaaS products |
 
 ---
 
