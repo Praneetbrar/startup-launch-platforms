@@ -135,6 +135,7 @@ Launching on just one platform limits your growth.
 | Makerhunt | https://makerhunt.io | Launch and showcase maker projects |
 | Sidehunt | https://sidehunt.io | Platform for sharing and exploring side projects |
 | LaunchIgniter | https://launchigniter.com | Platform for startup exposure |
+| SaaSCity | https://saascity.io | Gamified SaaS directory on an isometric city map |
 
 ---
 
