@@ -103,6 +103,7 @@ Launching on just one platform limits your growth.
 | AI Tool Hunt | https://aitoolhunt.com | Discover and submit AI tools |
 | AI Scout | https://aiscout.net | AI startup listing platform |
 | Toolify | https://www.toolify.ai | AI tools search and discovery |
+| ToolWorthy | https://www.toolworthy.ai/ | AI tool discovery directory with maintained profiles, alternatives, category rankings, and editorial guides |
 | FutureTools | https://www.futuretools.io | AI tools curated by category |
 | AI Valley | https://aivalley.ai | AI ecosystem and startup hub |
 | TopAI.tools | https://topai.tools | SEO-focused AI tools directory |
