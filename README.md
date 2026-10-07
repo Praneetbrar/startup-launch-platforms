@@ -133,6 +133,7 @@ Launching on just one platform limits your growth.
 | Startup Fame | https://startupfa.me | Directory for new startups |
 | PitchWall | https://pitchwall.co | Startup showcase platform |
 | CtrlAltCC | https://ctrlalt.cc | Curated startup directory |
+| Huzzler | https://huzzler.so | Launch platform and startup directory for SaaS founders |
 | Twelve Tools | https://twelve.tools | Collection of useful web tools |
 | Tiny Startups | https://tinystartups.com | Indie startup directory |
 | Open Launch | https://openlaunch.io | Discover new products and tools |
