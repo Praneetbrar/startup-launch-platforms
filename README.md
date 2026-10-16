@@ -111,6 +111,7 @@ Launching on just one platform limits your growth.
 | Dang.ai | https://dang.ai | A directory focusing on AI products and startups |
 | JustLaunched | https://justlaunched.fyi | Directory to submit and discover newly launched SaaS products |
 | AISOTools | https://aisotools.com | AI tools directory with free listings plus AI-search visibility monitoring |
+| Public Prompts | https://www.publicprompts.art/ | AI tools directory with editorially reviewed owner submissions for US$19.99 once plus tax |
 
 ---
 
