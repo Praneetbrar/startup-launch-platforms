@@ -157,6 +157,7 @@ Launching on just one platform limits your growth.
 | TinyLaunch | https://tinylaunch.com | Micro startup launch platform |
 | ScoutForge | https://scoutforge.net | Developer tool discovery |
 | LaunchLlama | https://tools.launchllama.co | Launch campaign tracking |
+| SolarXlist | https://solarxlist.org | Global solar & energy storage company directory |
 
 ---
 
