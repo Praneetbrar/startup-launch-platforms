@@ -142,6 +142,7 @@ Launching on just one platform limits your growth.
 | SaaSCity | https://saascity.io | Gamified SaaS directory on an isometric city map |
 | AIWget | https://aiwget.com | Curated directory for AI agents, automation tools, and developer software |
 | Phyco | https://phyco.org | Website catalogue with verified user reviews across 16 categories |
+| RadarMakers | https://radarmakers.com | Free indie launchpad with ratings on idea, execution, design and value |
 
 ---
 
