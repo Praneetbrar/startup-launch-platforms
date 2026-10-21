@@ -29,6 +29,7 @@
 | [Sidehunt](https://sidehunt.io) | Platform for sharing and exploring side projects |
 | [Product Watch](https://productwatch.io/) | Your Daily Feed of New Tech Products & Startups|
 | [Nick Launches](https://nicklaunches.com/) | Launch platform for builders, AI startups, and SaaS founders. |
+| [Launch Indie Apps](https://launchindieapps.com/) | Launch platform and directory for iOS apps by indie makers, reviewed by a person. |
 
 
 ---
