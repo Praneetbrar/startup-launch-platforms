@@ -141,6 +141,7 @@ Launching on just one platform limits your growth.
 | LaunchIgniter | https://launchigniter.com | Platform for startup exposure |
 | SaaSCity | https://saascity.io | Gamified SaaS directory on an isometric city map |
 | AIWget | https://aiwget.com | Curated directory for AI agents, automation tools, and developer software |
+| CodeTrendy | https://codetrendy.com/ | Directory where builders list and discover new startups, dev tools and online products |
 | Phyco | https://phyco.org | Website catalogue with verified user reviews across 16 categories |
 
 ---
