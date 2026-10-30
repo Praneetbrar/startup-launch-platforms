@@ -81,6 +81,7 @@ Launching on just one platform limits your growth.
 
 | Platform | Link | Description |
 |----------|------|------------|
+| FoundrList | https://www.foundrlist.com | Weekly launch cohorts for SaaS and AI tools |
 | Uneed | https://uneed.best | Curated directory for new tech products |
 | Microlaunch | https://microlaunch.net | Simple platform for quick product launches |
 | Fazier | https://fazier.com | Clean product discovery experience |
