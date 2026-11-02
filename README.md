@@ -29,6 +29,7 @@
 | [Sidehunt](https://sidehunt.io) | Platform for sharing and exploring side projects |
 | [Product Watch](https://productwatch.io/) | Your Daily Feed of New Tech Products & Startups|
 | [Nick Launches](https://nicklaunches.com/) | Launch platform for builders, AI startups, and SaaS founders. |
+| [RankCert](https://rankcert.com/) | Free weekly launch board ranked by verified domain control |
 
 
 ---
