@@ -90,6 +90,7 @@ Launching on just one platform limits your growth.
 | Smol Launch | https://smollaunch.com | Weekly curated startup launches |
 | NextGen Tools | https://nxgntools.com | SEO-focused tool discovery platform |
 | WhatLaunched.Today | https://www.whatlaunched.today | Daily product launch tracking |
+| LaunchWren | https://launchwren.com | Free weekly launches for indie makers, with peer feedback and public traffic stats |
 
 ---
 
