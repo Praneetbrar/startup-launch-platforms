@@ -142,6 +142,9 @@ Launching on just one platform limits your growth.
 | SaaSCity | https://saascity.io | Gamified SaaS directory on an isometric city map |
 | AIWget | https://aiwget.com | Curated directory for AI agents, automation tools, and developer software |
 | Phyco | https://phyco.org | Website catalogue with verified user reviews across 16 categories |
+| PWA Directory | https://pwa.directory | Curated directory of installable Progressive Web Apps |
+| WebApps Directory | https://webapps.directory | Curated directory of web apps that run in the browser |
+| Boilerplates Directory | https://boilerplates.directory | Compare SaaS starter kits and boilerplates by stack |
 
 ---
 
