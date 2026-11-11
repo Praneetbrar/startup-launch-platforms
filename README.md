@@ -157,6 +157,7 @@ Launching on just one platform limits your growth.
 | TinyLaunch | https://tinylaunch.com | Micro startup launch platform |
 | ScoutForge | https://scoutforge.net | Developer tool discovery |
 | LaunchLlama | https://tools.launchllama.co | Launch campaign tracking |
+| KidCreatorTools | https://kidcreatortools.com | AI tools for making kids' content, free listing |
 
 ---
 
